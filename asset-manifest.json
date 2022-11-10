@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Season-React/static/css/main.93cb0e5e.css",
+    "main.js": "/Season-React/static/js/main.2cede7f2.js",
+    "static/media/glasswoman.png": "/Season-React/static/media/glasswoman.a7c55a05bb5f99d179bc.png",
+    "static/media/glasses.png": "/Season-React/static/media/glasses.ddef043a637a8c3906e6.png",
+    "static/media/tennis.png": "/Season-React/static/media/tennis.5f1077d52d5d19b44d7a.png",
+    "static/media/woman.png": "/Season-React/static/media/woman.e8827c792b2d2be7f9fb.png",
+    "static/media/blueT-Shirt.png": "/Season-React/static/media/blueT-Shirt.ee3f5a5b3dedce79faf4.png",
+    "static/media/shopCartText.png": "/Season-React/static/media/shopCartText.d0874c7662eca1f39d7c.png",
+    "static/media/GreenT-Shirt.png": "/Season-React/static/media/GreenT-Shirt.889a6d71a853d13c4442.png",
+    "static/media/pocket.svg": "/Season-React/static/media/pocket.d777dbd7261271fdf1b7a0c1ed73b7f2.svg",
+    "static/media/logo.svg": "/Season-React/static/media/logo.e2057d0ebe2f7a07646ac6cee587edbb.svg",
+    "index.html": "/Season-React/index.html",
+    "static/media/arrow.svg": "/Season-React/static/media/arrow.d54667c925d2be2091f5f47b2b2392cd.svg",
+    "main.93cb0e5e.css.map": "/Season-React/static/css/main.93cb0e5e.css.map",
+    "main.2cede7f2.js.map": "/Season-React/static/js/main.2cede7f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93cb0e5e.css",
+    "static/js/main.2cede7f2.js"
+  ]
+}
